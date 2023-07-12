@@ -75,7 +75,7 @@ To cite our paper:
 @INPROCEEDINGS{shin:www:2023,
   author = {Dongwon Shin and Suyoung Lee and Sooel Son},
   title = {{RICC}: Robust Collective Classification of Sybil Accounts},
-  booktitle = {Proceedings of the ACM Web Conference},
+  booktitle = {Proceedings of the {ACM} Web Conference},
   pages = {2329--2339},
   year = 2023
 }
